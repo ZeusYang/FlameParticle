@@ -1,0 +1,22 @@
+﻿  Flame.cpp
+Flame.cpp(175): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+Flame.cpp(177): warning C4018: “<”: 有符号/无符号不匹配
+Flame.cpp(195): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  main.cpp
+main.cpp(41): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+main.cpp(58): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+main.cpp(75): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(109): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(110): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(113): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(114): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(115): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(116): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+main.cpp(121): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  正在生成代码
+  2 of 426 functions ( 0.5%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    22 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  FlameParticle.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\FlameParticle\Release\FlameParticle.exe
+  FlameParticle.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\FlameParticle\Release\FlameParticle.pdb (Full PDB)

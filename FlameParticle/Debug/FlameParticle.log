@@ -1,0 +1,18 @@
+﻿  main.cpp
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\main.cpp(41): warning C4244: “参数”: 从“GLfloat”转换到“int”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\main.cpp(58): warning C4244: “参数”: 从“GLfloat”转换到“GLsizei”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\main.cpp(75): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\main.cpp(109): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\main.cpp(110): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\main.cpp(113): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\main.cpp(114): warning C4244: “初始化”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\main.cpp(115): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\main.cpp(116): warning C4244: “=”: 从“double”转换到“GLfloat”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\main.cpp(121): warning C4244: “参数”: 从“double”转换到“GLfloat”，可能丢失数据
+  Flame.cpp
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\flame.cpp(174): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\flame.cpp(176): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\yang\desktop\opengl-demo\flameparticle\flameparticle\flame.cpp(194): warning C4244: “参数”: 从“time_t”转换到“unsigned int”，可能丢失数据
+  正在生成代码...
+  FlameParticle.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\FlameParticle\Debug\FlameParticle.exe
+  FlameParticle.vcxproj -> C:\Users\Yang\Desktop\OpenGL-Demo\FlameParticle\Debug\FlameParticle.pdb (Full PDB)
